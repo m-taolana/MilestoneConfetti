@@ -58,7 +58,7 @@ const Cracker = ({isAnimated}) => {
           isAnimated(true);
         }}
       >
-        Let's celebrate this diwali
+        press here
       </button>}
 
       {animation && <Message/>}
