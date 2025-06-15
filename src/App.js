@@ -44,7 +44,7 @@ function App() {
         />
       )}
       <h3 className="text-white font-light text-center pb-14 md:pb-4">
-      💛 Sasa
+      ❤️ Sasa
       </h3>
     </div>
   );
